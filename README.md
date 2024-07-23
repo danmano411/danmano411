@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **danmano411/danmano411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Hi there, I'm Dan Mano 👋
+
+Welcome to my GitHub profile! Here are some repositories I've contributed to:
+
+## Repositories I've Contributed To
+
+- Pebble (https://github.com/Vision84/Pebble)
+- Parky (https://github.com/Plate1/Parky)
+
+
