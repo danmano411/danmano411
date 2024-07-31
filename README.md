@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Dan Mano 👋
 
-Welcome to my GitHub profile! Here are some repositories I've contributed to:
-
 ## Repositories I've Contributed To
 
 - Pebble (https://github.com/Vision84/Pebble)
