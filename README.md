@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Dan Mano 👋
 
-## Current Project ##
-Thesaurus Race - Wiki Race but with Thesaurus
-- Finished game controls and am working on the database
-
 ## Repositories I've Contributed To
 
 - Pebble (https://github.com/Vision84/Pebble)
 - Parky (https://github.com/Plate1/Parky)
-
-
