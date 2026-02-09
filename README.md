@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 
 # Hi there, I'm Dan Mano 👋
 
-## HTEM DB Neural Network Project
+## Current Project
+
+### [HTEM DB Neural Network Project](https://github.com/danmano411/htem-neural-net-pipline)
 Building a curated dataset from NREL’s High Throughput Experimental Materials Database (HTEM DB) and training a neural network to predict thin-film properties (starting with thickness). The project is structured in three stages:
 
 - [x] **Stage 1 — Dataset pipeline (complete):**  
