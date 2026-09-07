@@ -107,7 +107,7 @@ A Windows file manager built around one thing: launching [Claude Code](https://c
 
 **[Tycho](https://swail.dev)**<br>
 <sub>[repo](https://github.com/swail-labs/tycho) · [npm](https://www.npmjs.com/package/@swail-labs/tycho)</sub><br>
-<sub>Jul 2026 – Aug 2026</sub>
+<sub>Jul 2026 – Present</sub>
 
 </td><td valign="top">
 
