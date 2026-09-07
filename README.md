@@ -106,7 +106,8 @@ A Windows file manager built around one thing: launching [Claude Code](https://c
 <tr><td valign="top">
 
 **[Tycho](https://swail.dev)**<br>
-<sub>[repo](https://github.com/swail-labs/tycho) · [npm](https://www.npmjs.com/package/@swail-labs/tycho)</sub>
+<sub>[repo](https://github.com/swail-labs/tycho) · [npm](https://www.npmjs.com/package/@swail-labs/tycho)</sub><br>
+<sub>Jul 2026 – Aug 2026</sub>
 
 </td><td valign="top">
 
@@ -117,7 +118,8 @@ Checks whether an AI agent's tool calls actually did what the agent claimed. The
 <tr><td valign="top">
 
 **[Physics-informed NN on HTEM DB](https://github.com/danmano411/htem-neural-net-pipline)**<br>
-<img src="https://img.shields.io/badge/research-8250DF?style=flat-square" alt="Research"> <sub>mentored, Jul 2025 – Jul 2026</sub>
+<sub>research, mentored</sub><br>
+<sub>Jul 2025 – Jul 2026</sub>
 
 </td><td valign="top">
 
@@ -127,7 +129,8 @@ A year of mentored research on NREL's materials database. Built a ~9,500 sample 
 
 <tr><td valign="top">
 
-**[Multimodal GNN for semiconductors](https://github.com/danmano411/bandgap-1-gnn)**
+**[Multimodal GNN for semiconductors](https://github.com/danmano411/bandgap-1-gnn)**<br>
+<sub>Apr 2026</sub>
 
 </td><td valign="top">
 
