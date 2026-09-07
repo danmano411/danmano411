@@ -63,7 +63,7 @@ A Windows file manager built around one thing: launching [Claude Code](https://c
   <img src="https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white" alt="CSS">
 </p>
 
-**Machine learning and AI**
+**Machine learning & AI**
 
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
@@ -74,7 +74,7 @@ A Windows file manager built around one thing: launching [Claude Code](https://c
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph">
 </p>
 
-**Web and app**
+**Web & app**
 
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
@@ -84,7 +84,7 @@ A Windows file manager built around one thing: launching [Claude Code](https://c
   <img src="https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
 </p>
 
-**Tools and infrastructure**
+**Tools & infrastructure**
 
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
@@ -137,6 +137,19 @@ Predicts band gap and formation energy straight from crystal structure across 17
 </table>
 
 **Also contributed to:** [Pebble](https://github.com/Vision84/Pebble) · [Parky](https://github.com/Plate1/Parky)
+
+---
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danmano411&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danmano411&theme=default" width="500" alt="Dan Mano's GitHub contributions">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danmano411&theme=github_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=danmano411&theme=default" width="243" alt="Dan Mano's GitHub stats">
+  </picture>
+</p>
 
 ---
 
