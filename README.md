@@ -18,7 +18,7 @@ I love building at the intersection where models meet the physical world, becaus
 
 ---
 
-## 🚀 Check out the most recent thing I built
+## Check out some cool things I built
 
 <table>
 <tr>
@@ -46,6 +46,35 @@ A Windows file manager built around one thing: launching [Claude Code](https://c
 </table>
 
 <sub>Electron, React and TypeScript, with real ConPTY terminals, a loopback MCP server that lets a session drive the app itself, bundled ripgrep search, and undo on every file operation.</sub>
+
+<br>
+
+<table>
+<tr>
+<td width="150" align="center" valign="middle">
+  <a href="https://github.com/danmano411/cubby-public">
+    <img src="https://raw.githubusercontent.com/danmano411/cubby-public/main/assets/icon.png" width="120" alt="Cubby">
+  </a>
+</td>
+<td valign="middle">
+
+### [Cubby](https://github.com/danmano411/cubby-public)
+
+A grouped app tray and window switcher for Windows and macOS. One key shows every app you care about, sorted into groups you set up once, with open apps lit and closed ones dimmed. Jump to one or launch it with a click, an arrow key or a few typed letters, and see unread pings from your chat apps on a slim side panel without opening anything.
+
+<a href="https://github.com/danmano411/cubby-public/releases"><img src="https://img.shields.io/github/v/release/danmano411/cubby-public?style=flat-square&color=D97757&label=release&include_prereleases" alt="Release"></a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+<img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron">
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" alt="Swift">
+<img src="https://img.shields.io/badge/MIT-4A4A4A?style=flat-square" alt="MIT">
+
+**[⬇️ Download](https://github.com/danmano411/cubby-public/releases) · [📖 Docs](https://github.com/danmano411/cubby-public#readme)**
+
+</td>
+</tr>
+</table>
+
+<sub>Electron and JavaScript with a native Swift helper on macOS, an Alt+Tab replacement with type-to-launch search, a music strip with global media keys, Open All / Close All, optional on-device voice commands, and per-monitor layout that handles mixed scaling.</sub>
 
 ---
 
