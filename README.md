@@ -31,7 +31,7 @@ I love building at the intersection where models meet the physical world, becaus
 
 ### [Claude Explorer](https://github.com/danmano411/claude-explorer)
 
-A Windows file manager built around one thing: launching [Claude Code](https://claude.com/claude-code) from any folder in one click. Sessions open as tabs inside the app and live in named spaces you switch between, so a session waiting on a permission prompt marks its tab and its space instead of stalling unnoticed. That state is read from Claude Code's own hooks, not guessed from terminal output.
+A file manager that launches [Claude Code](https://claude.com/claude-code) from any folder in one click. Sessions open as tabs inside the app and live in named spaces you switch between, so working on several projects at once stays seamless. Tabs and spaces are saved across restarts, and an "open recent" list pulls back recently opened Claude sessions. A built-in file explorer and terminal, plus one-click opening in your IDE, keep your development tools organized in one place.
 
 <a href="https://github.com/danmano411/claude-explorer/releases"><img src="https://img.shields.io/github/v/release/danmano411/claude-explorer?style=flat-square&color=D97757&label=release" alt="Release"></a>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
@@ -60,7 +60,7 @@ A Windows file manager built around one thing: launching [Claude Code](https://c
 
 ### [Cubby](https://github.com/danmano411/cubby-public)
 
-A grouped app tray and window switcher for Windows and macOS. One key shows every app you care about, sorted into groups you set up once, with open apps lit and closed ones dimmed. Jump to one or launch it with a click, an arrow key or a few typed letters, and see unread pings from your chat apps on a slim side panel without opening anything.
+A grouped app tray and window switcher for Windows and macOS. One key shows every app you care about, sorted into groups you set up once, with open apps lit and closed ones dimmed. Jump to one or launch it with a click, an arrow key or a few typed letters, and see unread pings from your chat apps on a slim side panel without opening anything. Instead of scanning to see where Alt+Tab is taking you, you go straight to the window you have in mind, like macOS Spotlight with extra features.
 
 <a href="https://github.com/danmano411/cubby-public/releases"><img src="https://img.shields.io/github/v/release/danmano411/cubby-public?style=flat-square&color=D97757&label=release&include_prereleases" alt="Release"></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
@@ -78,7 +78,7 @@ A grouped app tray and window switcher for Windows and macOS. One key shows ever
 
 ---
 
-## 🧰 Tech
+## Tech
 
 **Languages**
 
@@ -127,7 +127,7 @@ A grouped app tray and window switcher for Windows and macOS. One key shows ever
 
 ---
 
-## 🛠️ Selected work
+## Selected work
 
 <table>
 <tr><th align="left" width="230">Project</th><th align="left">What it is</th><th align="left" width="200">Stack</th></tr>
@@ -143,6 +143,18 @@ A grouped app tray and window switcher for Windows and macOS. One key shows ever
 Checks whether an AI agent's tool calls actually did what the agent claimed. The verdict engine runs offline with no model in the loop, reasoning over git state, filesystem diffs, exit codes and database deltas. Open source for Claude Code, Cursor, Codex and OpenCode, and took it through a Y Combinator interview.
 
 </td><td valign="top"><sub>Python · LLM integration · PyPI/npm</sub></td></tr>
+
+<tr><td valign="top">
+
+**[HEARSAY](https://github.com/danmano411/hearsay)**<br>
+<sub>HackGT 2026 · NSA challenge</sub><br>
+<sub>Sep 2026</sub>
+
+</td><td valign="top">
+
+Detects whether a voice clip is real human speech or AI-generated (text-to-speech or voice cloning). Fuses three fine-tuned XLS-R speech models with speech-biology features, trained on 190,000+ clips from 11 open corpora plus fakes from our own synthesis simulator. Our initial submission hit a minDCF of 0.0584 and a 2.5% EER on the official test set.
+
+</td><td valign="top"><sub>Python · PyTorch · XLS-R · LightGBM</sub></td></tr>
 
 <tr><td valign="top">
 
